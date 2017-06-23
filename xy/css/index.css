@@ -1,0 +1,128 @@
+.logo{
+	width: 150px;
+	height: 45px;
+}
+#head ul li{
+	float: right;
+	list-style: none;
+	position: relative;
+	left: -600px;
+	top: 5px;
+	margin-left: 40px;
+}
+#head ul li a{
+	text-decoration: none;
+	color: purple;
+}
+#head input{
+	position: relative;
+	right: -900px;
+	top: -25px;
+}
+#body{
+	background-image:url(../img/111.jpg);
+	width:1500px;
+	height:455px;
+	background-size: 1500px 455px;
+}
+#booty{
+	background-color: #FFB6C1;
+}
+#booty ul li{
+	list-style: none;
+	line-height: 35px;
+	position: relative;
+	right: -420px;
+}
+#booty ul li a{
+	text-decoration: none;
+	color: black;
+}
+#booty img{
+	width: 1500px;
+	height: 32px;
+}
+#one{
+	background-color: #FFB6C1;
+	position: relative;
+	top: -20px;
+}
+#one img{
+	position: relative;
+	top: -150px;
+}
+#two{
+	background-color: #FFB6C1;
+	margin-top: -30px;
+	height: 100px;
+}
+#two img{
+	position: relative;
+	right: -1060px;
+	top: -390px;
+}
+#two ul li{
+	list-style: none;
+	line-height: 35px;
+	position: relative;
+	right: -590px;
+	top: -575px;
+}
+#two ul li a{
+	text-decoration: none;
+	color: black;
+}
+#three{
+	background-color: #FFB6C1;
+	margin-top: -30px;
+	height: 270px; 
+}
+#three img{
+	position: relative;
+	top: -100px;
+}
+#three ul li{
+	list-style: none;
+	line-height: 35px;
+	position: relative;
+	right: -425px;
+	top: -370px;
+}
+#three ul li a{
+	text-decoration: none;
+	color: black;
+}
+#four{
+	background-color: #FFB6C1;
+	margin-top: -30px;
+	height: 350px;
+}
+#four img{
+	position: relative;
+	right: -1070px;
+	top: -5px;
+}
+#four ul li{
+	list-style: none;
+	line-height: 35px;
+	position: relative;
+	right: -670px;
+	top: -300px;
+}
+#four ul li a{
+	text-decoration: none;
+	color: black;
+}
+#footer{
+	background-color: #333366;
+	margin-top: -30px;
+	height: 200px;
+}
+#footer ul li{
+	float: right;
+	list-style: none;
+	position: relative;
+	left: -600px;
+	top: 100px;
+	margin-left: 40px;
+}

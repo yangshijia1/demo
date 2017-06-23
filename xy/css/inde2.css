@@ -1,0 +1,64 @@
+.logo{
+	width: 150px;
+	height: 45px;
+}
+#head ul li{
+	float: right;
+	list-style: none;
+	position: relative;
+	left: -600px;
+	top: 5px;
+	margin-left: 40px;
+}
+#head ul li a{
+	text-decoration: none;
+	color: purple;
+}
+#head input{
+	position: relative;
+	right: -900px;
+	top: -25px;
+}
+#body{
+	background-image:url(../img/111.jpg);
+	width:1500px;
+	height:455px;
+	background-size: 1500px 455px;
+}
+#booty{
+	background-color: #FFB6C1;
+}
+#booty img{
+	width: 1500px;
+	height: 32px;
+}
+#one{
+	width: 1500px;
+	height: 3940px;;
+	background-color: #FFB6C1;
+	position: relative;
+	top:-21px;
+}
+#one h1{
+	text-align: center;
+}
+#one p{
+	text-indent: 2em;
+}
+#one img{
+	position: relative;
+	right: -450px;
+}
+#footer{
+	background-color: #333366;
+	margin-top: -30px;
+	height: 200px;
+}
+#footer ul li{
+	float: right;
+	list-style: none;
+	position: relative;
+	left: -600px;
+	top: 100px;
+	margin-left: 40px;
+}

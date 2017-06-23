@@ -1,0 +1,109 @@
+.logo{
+	width: 150px;
+	height: 45px;
+}
+#head ul li{
+	float: right;
+	list-style: none;
+	position: relative;
+	left: -600px;
+	top: 5px;
+	margin-left: 40px;
+}
+#head ul li a{
+	text-decoration: none;
+	color: purple;
+}
+#head input{
+	position: relative;
+	right: -900px;
+	top: -25px;
+}
+#body{
+	background-image:url(../img/111.jpg);
+	width:1500px;
+	height:455px;
+	background-size: 1500px 455px;
+}
+#booty{
+	background-color: #FFB6C1;
+}
+#booty img{
+	width: 1500px;
+	height: 32px;
+}
+#one{
+	width: 1500px;
+	height: 405px;;
+	background-color: #FFB6C1
+}
+#one a{
+	text-decoration: none;
+	color: black;
+	position: relative;
+	top: -300px;
+	right: -580px;
+}
+#two{
+	width: 1500px;
+	height: 405px;
+	background-color: #FFB6C1
+}
+#two img{
+	position: relative;
+	right:-950px;
+	top:-50px;
+}
+#two a{
+	text-decoration: none;
+	color: black;
+	position: relative;
+	top: -350px;
+	right: -800px;
+}
+#three{
+	width: 1500px;
+	height: 405px;
+	background-color: #FFB6C1
+}
+#three img{
+	position: relative;
+	top: -100px;
+}
+#three a{
+	text-decoration: none;
+	color: black;
+	position: relative;
+	top: -410px;
+	right: -570px;
+}
+#four{
+	width: 1500px;
+	height: 305px;
+	background-color: #FFB6C1
+}
+#four img{
+	position: relative;
+	right:-950px;
+	top:-160px;
+}
+#four a{
+	text-decoration: none;
+	color: black;
+	position: relative;
+	top: -460px;
+	right: -840px;
+}
+#footer{
+	background-color: #333366;
+	margin-top: -30px;
+	height: 200px;
+}
+#footer ul li{
+	float: right;
+	list-style: none;
+	position: relative;
+	left: -600px;
+	top: 100px;
+	margin-left: 40px;
+}
